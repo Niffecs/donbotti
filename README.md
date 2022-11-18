@@ -1,7 +1,6 @@
 # Donbotti
 The Git represents the actual website of the "Faultybot".  
-It is a way to kick all banned accounts from your Lichess team. For more information on the Faultybot, please check out the Git there.
-[Faultybot](https://github.com/Niffecs/faultybot)
+It is a way to kick all banned accounts from your Lichess team. For more information on the Faultybot, please check out the Git.
 
 ## Installation
 To install the web application, simply drag and drop all files and folders to your web server via FTP. That's all you need to do.   
