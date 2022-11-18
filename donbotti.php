@@ -20,7 +20,7 @@ function content($zitate, $team)
     $blocked = false;
     for ($i = 2; $i < count($zitate); $i++) {
         $user = $zitate[$i];
-        if ($user != "Riffecx" &&  $user != "Donbur") {
+        if ($user != "Niffecs" &&  $user != "Donbur") {
             $c = $i - 1;
             print($c . ": <a href='https://lichess.org/@/" . $user . "' target='_blank'>" . $user . "</a> <br>");
         } else {
